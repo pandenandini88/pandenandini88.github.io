@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on This Blog</title>
+    <link>https://pandenandini88.github.io/post/</link>
+    <description>Recent content in Posts on This Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Jul 2022 10:58:07 -0400</lastBuildDate><atom:link href="https://pandenandini88.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>https://pandenandini88.github.io/post/home/</link>
+      <pubDate>Sat, 16 Jul 2022 10:58:07 -0400</pubDate>
+      
+      <guid>https://pandenandini88.github.io/post/home/</guid>
+      <description>This is my post </description>
+    </item>
+    
+  </channel>
+</rss>
